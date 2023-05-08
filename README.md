@@ -1,1 +1,1 @@
-# TR-Dima
+Je me suis essayé à l'orienté objet. J'ai pu tester sur mon ordinateur (pas exactement tout le code puisque je n'ai pas de carte graphique sur mon ordinateur) et cela fonctionnait. N'hesitez pas à me dire s'il y a des erreurs je les corrigerai.
